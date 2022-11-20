@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lab four hugo github</title>
+    
+    
+    
+    <link>https://labfour.github.io/</link>
+    <description>Recent content on lab four hugo github</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Nov 2022 01:09:27 +0200</lastBuildDate>
+    
+	<atom:link href="https://labfour.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://labfour.github.io/about/</link>
+      <pubDate>Sun, 20 Nov 2022 19:37:38 +0200</pubDate>
+      
+      <guid>https://labfour.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is about section. Index.md
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Firstblog</title>
+      <link>https://labfour.github.io/blog/firstblog/</link>
+      <pubDate>Sun, 20 Nov 2022 01:09:27 +0200</pubDate>
+      
+      <guid>https://labfour.github.io/blog/firstblog/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          First blog.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Firstpost</title>
+      <link>https://labfour.github.io/posts/firstpost/</link>
+      <pubDate>Sun, 20 Nov 2022 01:09:13 +0200</pubDate>
+      
+      <guid>https://labfour.github.io/posts/firstpost/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          First post.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Third super post</title>
+      <link>https://labfour.github.io/posts/thirdpost/</link>
+      <pubDate>Sun, 20 Nov 2022 01:09:13 +0200</pubDate>
+      
+      <guid>https://labfour.github.io/posts/thirdpost/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Stuff here.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
